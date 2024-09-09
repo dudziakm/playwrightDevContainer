@@ -1,0 +1,19 @@
+{
+  "name": "playwright-smoke-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "1.41",
+    "@types/node": "^20.11.6",
+    "prettier": "^3.3.3",
+    "typescript": "^5.3.3"
+  }
+}
